@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<img align="right" alt="GIF" src="https://github.com/nodyang/nodyang/blob/main/2021.jpg" />
+
 **nodyang/nodyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
