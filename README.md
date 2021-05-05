@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/nodyang/nodyang/blob/main/2021.jpg" />
+<p align="center">
+<p align="center">
 
-**nodyang/nodyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/nodyang/nodyang/main/2021.jpg" width="250px" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+- 🚢 Open source contributor
+- 🚀 Kubernetes, .NET Core and React
+- 👑 HotChocolate, MassTransit and Quartz
+- 🤝 Always open for cooperation
+- ❤️ Cats 😸, whales 🐳 and guitars 🎸
+
+<br>
